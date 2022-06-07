@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: the Rust programming language
 - 👯 I’m looking to collaborate on: a Gamejam using the Godot Game Engine
 - 📫 How to reach me: johnpeterprogramming@gmail.com
-- ⚡ My proudest project: neuralnetwork_cars, I implemented the Neural Network and the Genetic Algorithm from scrach using Godot Game Engine
+- ⚡ My proudest project: [neuralnetwork_cars](https://github.com/johnpeterprogramming/neuralnetwork_cars), I implemented the Neural Network and the Genetic Algorithm from scrach using Godot Game Engine
 <!-- - 🤔 I’m looking for help with ...
 - - 💬 Ask me about:   -->
 
