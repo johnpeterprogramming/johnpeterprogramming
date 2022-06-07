@@ -1,7 +1,4 @@
-### Hi there, here are some of my projects 👋
-
-
-Here are some ideas to get you started:
+### Here is what I'm working on! 👋
 
 - 🔭 I’m currently working on: a Delphi application that uses the GPT-3 API for my Gr 12 IT PAT
 - 🌱 I’m currently learning: the Rust programming language
