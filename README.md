@@ -6,4 +6,11 @@
 - 📫 How to reach me: johnpeterprogramming@gmail.com
 - ⚡ My proudest project: [neuralnetwork_cars](https://github.com/johnpeterprogramming/neuralnetwork_cars), I implemented the Neural Network and the Genetic Algorithm from scratch using Godot Game Engine
 
-
+- :desktop_computer: Programming skills:
+  - Python
+  - Gdscript(Godot Game Engine)
+  - Delphi
+  - Rust
+  - Html and Css
+  - Linux
+  - Heroku
