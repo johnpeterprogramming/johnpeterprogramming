@@ -16,4 +16,4 @@
   - Html and Css
   - Linux
   - PHP
-  - Lindoe
+  - Linode
