@@ -9,7 +9,7 @@
 - :desktop_computer: Programming skills:
   - Python
   - C++
-  - R
+  - Java
   - Gdscript(Godot Game Engine)
   - Delphi
   - Rust
