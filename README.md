@@ -2,18 +2,13 @@
 
 - 🔭 I’m currently working on: Php Laravel Project
 - 🌱 I’m currently learning: Php
-- 👯 I’m looking to collaborate on: GameJam and ChatGPT Project
+- 👯 I’m looking to collaborate on: GameJam or AI Project
 - 📫 How to reach me: johnakrause@colourmultimedia.com
-- ⚡ My proudest project: [neuralnetwork_cars](https://github.com/johnpeterprogramming/neuralnetwork_cars), I implemented the Neural Network and the Genetic Algorithm from scratch using Godot Game Engine
+- ⚡ My proudest project: [neuralnetwork_cars](https://github.com/johnpeterprogramming/neuralnetwork_cars), I implemented the NEAT algorithm without using any libraries with Godot Game Engine
 
 - :desktop_computer: Programming skills:
-  - Python
-  - C++
-  - Java
-  - Gdscript(Godot Game Engine)
-  - Delphi
-  - Rust
-  - Html and Css
+  - PHP (Laravel)
   - Linux
-  - PHP
-  - Linode
+  - Git
+  - Python, C++ and Java
+  - I host all my websites on Linode
