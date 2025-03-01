@@ -1,6 +1,6 @@
 ### Here is what I'm working on! 👋
 
-- 🔭 I’m currently working on: BBD Vacation Work
+- 🔭 I’m currently working on: mysql clone
 - 🌱 I’m currently learning: Azure
 - 👯 I’m looking to collaborate on: Nothing, too busy
 - 📫 How to reach me: johnakrause@colourmultimedia.com
@@ -11,4 +11,4 @@
   - Linux
   - Git
   - Python, C++ and Java
-  - I host all my websites on Linode
+  - Node, Typescript, Azure, Docker
