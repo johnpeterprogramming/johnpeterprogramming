@@ -1,7 +1,7 @@
 ### Here is what I'm working on! 👋
 
-- 🔭 I’m currently working on: mysql clone
-- 🌱 I’m currently learning: Azure
+- 🔭 I’m currently working on: Capstone project - Automated Scheduler
+- 🌱 I’m currently learning: Golang
 - 👯 I’m looking to collaborate on: Nothing, too busy
 - 📫 How to reach me: johnakrause@colourmultimedia.com
 - ⚡ My proudest project: [neuralnetwork_cars](https://github.com/johnpeterprogramming/neuralnetwork_cars), I implemented the NEAT algorithm without using any libraries with Godot Game Engine
@@ -11,4 +11,4 @@
   - Linux
   - Git
   - Python, C++ and Java
-  - Node, Typescript, Azure, Docker
+  - Node, Typescript, Docker, React
